@@ -130,23 +130,23 @@ As principais habilidades técnicas estudadas são JavaScript, HTML, CSS, React,
 
 :ballot_box_with_check: 11-1: \_Componentes com estado e eventos
 
-:black_large_square: 12-2: \_Formulários no React
+:ballot_box_with_check: 12-2: \_Formulários no React
 
-:black_large_square: 12-3: \_Projeto - Movie Cards Library Stateful
+:ballot_box_with_check:: 12-3: \_Projeto - Tryunfo
 
 ### Bloco 12: Ciclo de Vida de Componentes e React Router
 
-:black_large_square: 13-1: \_Ciclo de vida de componentes
+:ballot_box_with_check: 13-1: \_Ciclo de vida de componentes
 
-:black_large_square: 13-2: \_React Router
+:ballot_box_with_check: 13-2: \_React Router
 
-:black_large_square: 13-3: \_Projeto - Movie Cards Library CRUD
+:ballot_box_with_check: 13-3: \_Projeto - Trybetunes
 
 ### Bloco 13: Metodologias ágeis
 
-:black_large_square: 14-1: \_Metodologias ágeis
+:ballot_box_with_check: 14-1: \_Metodologias ágeis
 
-:black_large_square: 14-2: \_Projeto - Frontend Online Store
+:ballot_box_with_check:14-2: \_Projeto - Frontend Online Store
 
 ### Bloco 14: Testes automatizados com React Testing Library
 
