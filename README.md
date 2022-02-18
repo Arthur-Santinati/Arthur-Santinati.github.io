@@ -1,3 +1,34 @@
+## Opa eu sou o Arthur Santinati, estudante de programação e tecnologia!
+
+<div align="center">
+  <a href="https://github.com/Arthur-Santinati">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Santinati&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Santinati&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Arthur-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="https://picasion.com/"><img  align="right" width="300px" src="https://i.picasion.com/pic92/73d5a389adc00b40cf0df8e5cd4bff8e.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/santinatiarthur/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arthur-santinati/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:arthursantinati02@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+  
+ 
+  ![Snake animation](https://github.com/Arthur-Santinati/Arthur-Santinati.github.io)
+ 
+</div>
+
+
+
 # Trybe
 
 :rotating_light: If you are not a \_portuguese speaker, you can find the \_english version of this document [here](#english-version---trybe).
