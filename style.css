@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color: darkolivegreen;
+
+}
+body, head{
+    background-color: #fffbba;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#foto {
+    background-color: lightblue;
+    width: 200px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 50px;
+    float:right;
+}
+
+ul {
+    list-style-type: square;
+}
