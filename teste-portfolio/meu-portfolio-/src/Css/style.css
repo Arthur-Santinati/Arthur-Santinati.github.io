@@ -7,6 +7,10 @@ body {
   color: #1e1e1e;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* HEADER */
 
 .header-container {
@@ -201,6 +205,44 @@ a:hover {
   width: 90%;
 }
 
+.card-trybewarts {
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  margin: 3rem 0 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #60e1e0;
+  background-image: url(../images/trybewarts-cortado);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: grayscale(0.5);
+  color: #1e1e1e;
+  cursor: pointer;
+  transition: 0.5s ease-in-out;
+}
+
+.card-to-do-list {
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  margin: 3rem 0 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #60e1e0;
+  background-image: url(../images/to-do-list.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: grayscale(0.5);
+  color: #1e1e1e;
+  cursor: pointer;
+  transition: 0.5s ease-in-out;
+}
+
 .card {
   width: 300px;
   height: 300px;
@@ -210,7 +252,7 @@ a:hover {
   align-items: center;
   justify-content: center;
   background-color: #60e1e0;
-  /* background-image: ; */
+  /* background-image: url(../images/trybewarts-cortado); */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
