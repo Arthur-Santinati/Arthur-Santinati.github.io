@@ -1,10 +1,12 @@
-// import PrincipalPage from './components/PrincipalPage';
+import Header from './components/Header';
+import Projects from './components/Projects';
 import About from './components/About';
 
 function App() {
   return (
     <div>
-     {/* <PrincipalPage /> */}
+      <Header />
+      <Projects />
       <About />
     </div>
   );
