@@ -4,7 +4,7 @@ function Projects() {
   return (
     <div>
       <main className="container" id="Projects">
-        <h1 className="card-container"> Projetos </h1>
+        <h1 className="card-container"> Meus Projetos </h1>
         <div className="card-container">
           <a
             href="https://clever-torvalds-0f147c.netlify.app/"
@@ -22,10 +22,27 @@ function Projects() {
             Criação de formulários usando HTML, CSS utilizado para criar layouts flexíveis, página feita como referencia a trilogia de Harry Potter e mesclando a tecnologia adquirida no curso junto. 
           </div>
         </div>
+        <div className="card-container">
+          <a
+            href="https://scintillating-raindrop-6d9412.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <div className="card-encookado card">
+              <div className="card-wrapper">
+                <h2> Encookado </h2>
+                <p> Clique para começar sua receita!</p>
+              </div>
+            </div>
+          </a>
+          <div className="card-text">
+          O objetivo do projeto é abordar um “livro de receitas”, mas em forma de aplicativo, nele você faz o seu login, e assim que entra procura pela receita da sua escolha, podendo usar filtros, tanto como bebidas, como comidas, e tendo opções de explorar várias receitas que talvez você não conheça. 
+          </div>
+        </div>
 
         <div className="card-container">
           <a
-            href="https://gilded-souffle-e5ac18.netlify.app/"
+            href="https://clinquant-heliotrope-080da0.netlify.app"
             target="_blank"
             rel="noreferrer"
           >

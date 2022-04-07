@@ -243,6 +243,41 @@ a:hover {
   transition: 0.5s ease-in-out;
 }
 
+.card-encookado {
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  margin: 3rem 0 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #60e1e0;
+  background-image: url(../images/encookado2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: grayscale(0.5);
+  color: white;
+  cursor: pointer;
+  transition: 0.5s ease-in-out;
+}
+
+.card-encookado h2, p {
+  color: white;
+}
+
+.card-trybe-tunes p {
+  color: black;
+}
+
+.card-to-do-list p {
+  color: black;
+}
+
+.card-trybewarts p {
+  color: black;
+}
+
 .card-to-do-list {
   width: 300px;
   height: 300px;
@@ -271,7 +306,6 @@ a:hover {
   align-items: center;
   justify-content: center;
   background-color: #60e1e0;
-  /* background-image: url(../images/trybewarts-cortado); */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

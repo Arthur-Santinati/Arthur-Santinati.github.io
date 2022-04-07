@@ -7,7 +7,7 @@ function Header() {
         <div className="checkbox-container">
           <div className="checkbox-wrapper">
             <input type="checkbox" id="toggle" />
-            <label for="toggle" className="checkbox">
+            <label htmlFor="toggle" className="checkbox">
               <div className="trace"></div>
               <div className="trace"></div>
               <div className="trace"></div>
@@ -29,8 +29,8 @@ function Header() {
           </div>
         </div>
       </div>
-      <h1> Hello My Name is Arthur Santinati.</h1>
-      <h2> I'm a front end developer</h2>
+      <h1> Olá, meu nome é Arthur Santinati.</h1>
+      <h2> Eu sou um densenvolvedor front end, vem conhecer mais do meu trabalho!</h2>
       <div className="social-media">
         <a
           href="https://www.linkedin.com/in/arthur-santinati/"
