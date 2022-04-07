@@ -6,20 +6,6 @@ function About() {
   return (
     <div>
       <div className="container" id="Sobre">
-        <nav>
-          <ul className="nav">
-            <li className="nav-item">
-              <a href="#outras" className="nav-link">
-                Outras Habilidades
-              </a>
-            </li>
-            <li className="nav-item">
-              <a href="#orgulho" className="nav-link">
-                Principais Habilidades
-              </a>
-            </li>
-          </ul>
-        </nav>
         <img
           alt="foto-minha"
           src={myPhoto}
