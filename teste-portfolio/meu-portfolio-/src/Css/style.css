@@ -386,3 +386,20 @@ card:hover{
   justify-content: center;
   color: black;
 }
+
+.container-about {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.title-habilities {
+  color: black;
+}
+
+p {
+  color: black;
+  padding: 5px;
+  font-size: 20px;
+  margin: 8px;
+}

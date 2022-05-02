@@ -7,7 +7,7 @@ function Projects() {
         <h1 className="card-container"> Meus Projetos </h1>
         <div className="card-container">
           <a
-            href="https://clever-torvalds-0f147c.netlify.app/"
+            href="https://harmonious-meerkat-1a2545.netlify.app"
             target="_blank"
             rel="noreferrer"
           >

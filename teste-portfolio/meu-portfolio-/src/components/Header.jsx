@@ -19,7 +19,7 @@ function Header() {
                   <a href="#Home">Home</a>
                 </li>
                 <li>
-                  <a href="#Sobre">Sobre</a>
+                  <a href="#Sobre">Sobre Mim</a>
                 </li>
                 <li>
                   <a href="#Projects">Projetos</a>
@@ -30,7 +30,7 @@ function Header() {
         </div>
       </div>
       <h1> Olá, meu nome é Arthur Santinati.</h1>
-      <h2> Eu sou um densenvolvedor front end, vem conhecer mais do meu trabalho!</h2>
+      <h2> Eu sou um desenvolvedor front end, vem conhecer mais do meu trabalho!</h2>
       <div className="social-media">
         <a
           href="https://www.linkedin.com/in/arthur-santinati/"
